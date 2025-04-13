@@ -1,9 +1,9 @@
 students:
-  - name: Ahmad Ihtisyamuddin
-    githubUsername:kospal24
-    linkedinUsername: ahmad ihtisyamuddin
-students:
   - name: zainal hasan
     githubUsername:zhanang19
     linkedinUsername: zhanang19
+students:
+  - name: Ahmad Ihtisyamuddin
+    githubUsername:kospal24
+    linkedinUsername: ahmad ihtisyamuddin
 
