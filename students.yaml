@@ -1,8 +1,13 @@
 students:
   - name: Zainal Hasan
     githubUsername: zhanang19
-    linkedinUsername: zhanang19
-
-   - name: Sandi nofri
+    linkedinUsername: zhanang19 
+  - name: Ariyandi Subekti
+    githubUsername: beksiii
+    linkedinUsername: AriyandiSubekti
+  - name: Tivani eky putra
+    githubUsername: ekycoding
+    linkedinUsername: Tivani eky putra
+  - name: Sandi nofri
     githubUsername: sandinofri
     linkedinUsername: sandinofri
