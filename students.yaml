@@ -1,7 +1,12 @@
 students:
-  - name: Zainal Hasan
-    githubUsername: zhanang19
+  - name: zainal hasan
+    githubUsername:zhanang19
     linkedinUsername: zhanang19
+students:
+  - name: Ahmad Ihtisyamuddin
+    githubUsername:kospal24
+    linkedinUsername: ahmad ihtisyamuddin
+
   - name: Ariyandi Subekti
     githubUsername: beksiii
     linkedinUsername: AriyandiSubekti
