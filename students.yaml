@@ -8,6 +8,12 @@ students:
   - name: Tivani eky putra
     githubUsername: ekycoding
     linkedinUsername: Tivani eky putra
+<<<<<<< HEAD
   - name: Muhammad Rafli
     githubUsername: AfyRafly
     linkedinUsername: Muhammad Rafli
+=======
+  - name: Yadribullah Hul Amtsal
+    githubUsername: justyamzal
+    linkedinUsername: Yadribullah Hul Amtsal
+>>>>>>> cfcf2d28a064dcf13eecb1c3f41e8c20d5997c4a
