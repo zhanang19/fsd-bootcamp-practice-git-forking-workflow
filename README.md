@@ -16,7 +16,7 @@
 ## Kontribusi
 
 - Fork repository ini ke akun Github kamu
-- Clone repository hasil fork ke komputer lokal kamu
+- Clone repository hasil fork ke komputer lokal kamu 
 - Buat branch baru untuk perubahanmu
 - Isi nama, username GitHub dan username LinkedIn kamu di file `students.yaml`
 - Pastikan untuk menggunakan format YAML, kamu bisa menggunakan data yang sudah ada sebagai referensi
