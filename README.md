@@ -1,5 +1,4 @@
 # Harisenin Full Stack Developer Bootcamp - Practice Git Forking Workflow
-
 ## Contributing
 
 - Fork this repository to your GitHub account
