@@ -8,6 +8,15 @@ students:
   - name: Tivani eky putra
     githubUsername: ekycoding
     linkedinUsername: Tivani eky putra
+<<<<<<< HEAD
   - name: Ahmad Husni
     githubUsername: ahmadhusnik
     linkedinUsername: ahmadhusni
+=======
+  - name: Yadribullah Hul Amtsal
+    githubUsername: justyamzal
+    linkedinUsername: Yadribullah Hul Amtsal
+  - name: Nurul Burhan
+    githubUsername: MizterHan
+    linkedinUsername: nburhan
+>>>>>>> 7579fe0414331c32811ecd286d636acbbf7f45d7
