@@ -14,6 +14,15 @@ students:
   - name: Nurul Burhan
     githubUsername: MizterHan
     linkedinUsername: nburhan
+<<<<<<< HEAD
   - name: Zulfikar Satya Nugraha
     githubUsername: fikarnugraha18
     linkedinUsername: ZulfikarSatyaNugraha
+=======
+  - name: Yasmin Ferdianie Putri
+    githubUsername: yasmin_ferdianie
+    linkedinUsername: yasmin_ferdianie
+  - name: Rizky Dharma Andika Raya
+    githubUsername: rizkydharma02
+    linkedinUsername: rizkydharma02
+>>>>>>> 428862be7cfe1b3d57b449bd26117dff0eadcc6a
